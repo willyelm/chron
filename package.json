@@ -1,0 +1,10 @@
+
+{
+  "name": "chron",
+  "version": "0.0.1",
+  "description": "A brief description of my awesome project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+  }
